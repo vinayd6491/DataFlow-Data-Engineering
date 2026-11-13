@@ -1,0 +1,6 @@
+{
+  "name": "DataFlow – Real-Time Data Engineering Pipeline & Analytics",
+  "description": "Production-ready Data Engineering ETL Pipeline, PostgreSQL warehouse, and interactive Streamlit & web analytics dashboard with comprehensive BCA college submission reports and viva presentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
